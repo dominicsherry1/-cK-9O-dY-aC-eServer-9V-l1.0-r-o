@@ -1,0 +1,171 @@
+{
+	"koyc.happy_villager": {
+		"replace": false,
+		"sounds": [
+			{
+				"name": "minecraft:mob/villager/yes2",
+				"pitch": 1.2
+			}
+		]
+	},
+	"koyc.belch": {
+		"sounds": [
+			{"name": "koyc:player/belch"},
+			{"name": "koyc:player/belch2"}
+		]
+	},
+	"koyc.loud_belch": {
+		"sounds": [
+			{"name": "koyc:player/belch2"}
+		]
+	},
+	"koyc.snore": {
+		"sounds": [
+			{"name": "koyc:player/snore"}
+		]
+	},
+	"koyc.play_record": {
+		"sounds": [
+			{"name": "koyc:blocks/jukebox/play_record"}
+		]
+	},
+	"koyc.notification": {
+		"sounds": [
+			{
+			"name": "minecraft:block.note.pling",
+			"pitch": 0.65,
+			"type": "event"
+			}
+		]
+	},
+	"koyc.failure": {
+		"sounds": [
+			{
+			"name": "minecraft:block.note.bass",
+			"pitch": 0.5,
+			"type": "event"
+			}
+		]
+	},
+	"koyc.success": {
+		"sounds": [
+			{
+			"name": "minecraft:block.note.chime",
+			"pitch": 1.0,
+			"type": "event"
+			}
+		]
+	},
+	"koyc.player.grootweare.death": {
+		"sounds": [
+			{"name": "koyc:player/grootweare/death"}
+		]
+	},
+	"koyc.player.therezziehunter.death": {
+		"sounds": [
+			{"name": "koyc:player/therezziehunter/death"}
+		]
+	},
+	"koyc.player.smoler.death": {
+		"sounds": [
+			{"name": "koyc:player/smoler/death"}
+		]
+	},
+	"koyc.player.phino01.death": {
+		"sounds": [
+			{"name": "koyc:player/phino01/death"}
+		]
+	},
+	"koyc.player.invictus13.death": {
+		"sounds": [
+			{"name": "koyc:player/invictus13/death"}
+		]
+	},
+	"koyc.player.eyeamgroot.death": {
+		"sounds": [
+			{"name": "koyc:player/eyeamgroot/death"}
+		]
+	},
+	"koyc.player.mimilleboldboy.death": {
+		"sounds": [
+			{"name": "koyc:player/mimilleboldboy/death"}
+		]
+	},
+	"koyc.player.ecctheenderman.death": {
+		"sounds": [
+			{"name": "koyc:player/ecctheenderman/death"}
+		]
+	},
+	"koyc.player.mr_organic_97.death": {
+		"sounds": [
+			{"name": "koyc:player/mr_organic_97/death"}
+		]
+	},
+	"koyc.player.iamno_one.death": {
+		"sounds": [
+			{"name": "koyc:player/iamno_one/death"}
+		]
+	},
+	"koyc.player.grootweare.ambient": {
+		"sounds": [
+			{"name": "koyc:player/grootweare/ambient1"}
+		]
+	},
+	"koyc.player.therezziehunter.ambient": {
+		"sounds": [
+			{"name": "koyc:player/therezziehunter/ambient1"}
+		]
+	},
+	"koyc.player.smoler.ambient": {
+		"sounds": [
+			{"name": "koyc:player/smoler/ambient1"}
+		]
+	},
+	"koyc.player.phino01.ambient": {
+		"sounds": [
+			{"name": "koyc:player/phino01/ambient1"}
+		]
+	},
+	"koyc.player.invictus13.ambient": {
+		"sounds": [
+			{"name": "koyc:player/invictus13/ambient1"}
+		]
+	},
+	"koyc.player.eyeamgroot.ambient": {
+		"sounds": [
+			{"name": "koyc:player/eyeamgroot/ambient1"}
+		]
+	},
+	"koyc.player.mimilleboldboy.ambient": {
+		"sounds": [
+			{"name": "koyc:player/mimilleboldboy/ambient1"}
+		]
+	},
+	"koyc.player.ecctheenderman.ambient": {
+		"sounds": [
+			{"name": "koyc:player/ecctheenderman/ambient1"}
+		]
+	},
+	"koyc.player.mr_organic_97.ambient": {
+		"sounds": [
+			{"name": "koyc:player/mr_organic_97/ambient1"}
+		]
+	},
+	"koyc.player.iamno_one.ambient": {
+		"sounds": [
+			{"name": "koyc:player/iamno_one/ambient1"}
+		]
+	},
+		"block.portal.ambient": {
+		"replace": true,
+		"sounds": [
+			"koyc:silence"
+		]
+	},
+	"block.redstone_torch.burnout": {
+		"replace": true,
+		"sounds": [
+			"koyc:silence"
+		]
+	}
+}
