@@ -56,9 +56,9 @@
 			}
 		]
 	},
-	"koyc.player.grootweare.death": {
+	"koyc.player.weweregroot.death": {
 		"sounds": [
-			{"name": "koyc:player/grootweare/death"}
+			{"name": "koyc:player/weweregroot/death"}
 		]
 	},
 	"koyc.player.therezziehunter.death": {
@@ -81,9 +81,9 @@
 			{"name": "koyc:player/invictus13/death"}
 		]
 	},
-	"koyc.player.eyeamgroot.death": {
+	"koyc.player.eyewasgroot.death": {
 		"sounds": [
-			{"name": "koyc:player/eyeamgroot/death"}
+			{"name": "koyc:player/eyewasgroot/death"}
 		]
 	},
 	"koyc.player.mimilleboldboy.death": {
@@ -106,9 +106,9 @@
 			{"name": "koyc:player/iamno_one/death"}
 		]
 	},
-	"koyc.player.grootweare.ambient": {
+	"koyc.player.weweregroot.ambient": {
 		"sounds": [
-			{"name": "koyc:player/grootweare/ambient1"}
+			{"name": "koyc:player/weweregroot/ambient1"}
 		]
 	},
 	"koyc.player.therezziehunter.ambient": {
@@ -131,9 +131,9 @@
 			{"name": "koyc:player/invictus13/ambient1"}
 		]
 	},
-	"koyc.player.eyeamgroot.ambient": {
+	"koyc.player.eyewasgroot.ambient": {
 		"sounds": [
-			{"name": "koyc:player/eyeamgroot/ambient1"}
+			{"name": "koyc:player/eyewasgroot/ambient1"}
 		]
 	},
 	"koyc.player.mimilleboldboy.ambient": {
