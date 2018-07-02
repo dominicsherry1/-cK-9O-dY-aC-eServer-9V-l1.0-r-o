@@ -83,7 +83,11 @@
 	},
 	"koyc.player.eyewasgroot.death": {
 		"sounds": [
-			{"name": "koyc:player/eyewasgroot/death"}
+			{
+				"name": "koyc:player/eyewasgroot/what"
+			}, {
+				"name": "koyc:player/eyewasgroot/scandal"
+			}
 		]
 	},
 	"koyc.player.mimilleboldboy.death": {
@@ -93,7 +97,7 @@
 	},
 	"koyc.player.ecctheenderman.death": {
 		"sounds": [
-			{"name": "koyc:player/ecctheenderman/death"}
+			{"name": "koyc:player/ecctheenderman/what"}
 		]
 	},
 	"koyc.player.mr_organic_97.death": {
@@ -113,7 +117,7 @@
 	},
 	"koyc.player.therezziehunter.ambient": {
 		"sounds": [
-			{"name": "koyc:player/therezziehunter/ambient1"}
+			{"name": "koyc:player/therezziehunter/whos_who"}
 		]
 	},
 	"koyc.player.smoler.ambient": {
@@ -133,7 +137,21 @@
 	},
 	"koyc.player.eyewasgroot.ambient": {
 		"sounds": [
-			{"name": "koyc:player/eyewasgroot/ambient1"}
+			{
+				"name": "koyc:player/eyewasgroot/lies"
+			}, {
+				"name": "koyc:player/eyewasgroot/maniacal_laughter"
+			}, {
+				"name": "koyc:player/eyewasgroot/recording"
+			}, {
+				"name": "koyc:player/eyewasgroot/scandal"
+			}, {
+				"name": "koyc:player/eyewasgroot/what"
+			}, {
+				"name": "koyc:player/eyewasgroot/what_a_cert_1"
+			}, {
+				"name": "koyc:player/eyewasgroot/what_a_cert_2"
+			}
 		]
 	},
 	"koyc.player.mimilleboldboy.ambient": {
@@ -143,7 +161,15 @@
 	},
 	"koyc.player.ecctheenderman.ambient": {
 		"sounds": [
-			{"name": "koyc:player/ecctheenderman/ambient1"}
+			{
+				"name": "koyc:player/ecctheenderman/oh"
+			}, {
+				"name": "koyc:player/ecctheenderman/oh_yeah"
+			}, {
+				"name": "koyc:player/ecctheenderman/what"
+			}, {
+				"name": "koyc:player/ecctheenderman/woah"
+			}
 		]
 	},
 	"koyc.player.mr_organic_97.ambient": {
