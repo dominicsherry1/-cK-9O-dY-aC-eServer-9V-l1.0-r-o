@@ -1,0 +1,184 @@
+{
+	"happy_villager": {
+		"sounds": [
+			{
+				"name": "minecraft:mob/villager/yes2",
+				"pitch": 1.2
+			}
+		]
+	},
+	"belch": {
+		"sounds": [
+			{"name": "koyc:player/belch"},
+			{"name": "koyc:player/belch2"}
+		]
+	},
+	"loud_belch": {
+		"sounds": [
+			{"name": "koyc:player/belch2"}
+		]
+	},
+	"snore": {
+		"sounds": [
+			{"name": "koyc:player/snore"}
+		]
+	},
+	"play_record": {
+		"sounds": [
+			{"name": "koyc:blocks/jukebox/play_record"}
+		]
+	},
+	"notification": {
+		"sounds": [
+			{
+			"name": "minecraft:block.note_block.pling",
+			"pitch": 0.65,
+			"type": "event"
+			}
+		]
+	},
+	"failure": {
+		"sounds": [
+			{
+			"name": "minecraft:block.note_block.bass",
+			"pitch": 0.5,
+			"type": "event"
+			}
+		]
+	},
+	"success": {
+		"sounds": [
+			{
+			"name": "minecraft:block.note_block.chime",
+			"pitch": 1.0,
+			"type": "event"
+			}
+		]
+	},
+	"player.weweregroot.death": {
+		"sounds": [
+			{"name": "koyc:player/weweregroot/death"}
+		]
+	},
+	"player.therezziehunter.death": {
+		"sounds": [
+			{"name": "koyc:player/therezziehunter/death"}
+		]
+	},
+	"player.smoler.death": {
+		"sounds": [
+			{"name": "koyc:player/smoler/death"}
+		]
+	},
+	"player.phino01.death": {
+		"sounds": [
+			{"name": "koyc:player/phino01/death"}
+		]
+	},
+	"player.invictus13.death": {
+		"sounds": [
+			{"name": "koyc:player/invictus13/death"}
+		]
+	},
+	"player.eyewasgroot.death": {
+		"sounds": [
+			{
+				"name": "koyc:player/eyewasgroot/what"
+			}, {
+				"name": "koyc:player/eyewasgroot/scandal"
+			}
+		]
+	},
+	"player.mimilleboldboy.death": {
+		"sounds": [
+			{"name": "koyc:player/mimilleboldboy/death"}
+		]
+	},
+	"player.ecctheenderman.death": {
+		"sounds": [
+			{"name": "koyc:player/ecctheenderman/what"}
+		]
+	},
+	"player.mr_organic_97.death": {
+		"sounds": [
+			{"name": "koyc:player/mr_organic_97/death"}
+		]
+	},
+	"player.iamno_one.death": {
+		"sounds": [
+			{"name": "koyc:player/iamno_one/death"}
+		]
+	},
+	"player.weweregroot.ambient": {
+		"sounds": [
+			{"name": "koyc:player/weweregroot/ambient1"}
+		]
+	},
+	"player.therezziehunter.ambient": {
+		"sounds": [
+			{"name": "koyc:player/therezziehunter/whos_who"}
+		]
+	},
+	"player.smoler.ambient": {
+		"sounds": [
+			{"name": "koyc:player/smoler/ambient1"}
+		]
+	},
+	"player.phino01.ambient": {
+		"sounds": [
+			{"name": "koyc:player/phino01/ambient1"}
+		]
+	},
+	"player.invictus13.ambient": {
+		"sounds": [
+			{"name": "koyc:player/invictus13/ambient1"}
+		]
+	},
+	"player.eyewasgroot.ambient": {
+		"sounds": [
+			{
+				"name": "koyc:player/eyewasgroot/lies"
+			}, {
+				"name": "koyc:player/eyewasgroot/maniacal_laughter"
+			}, {
+				"name": "koyc:player/eyewasgroot/recording"
+			}, {
+				"name": "koyc:player/eyewasgroot/scandal"
+			}, {
+				"name": "koyc:player/eyewasgroot/what"
+			}, {
+				"name": "koyc:player/eyewasgroot/what_a_cert_1"
+			}, {
+				"name": "koyc:player/eyewasgroot/what_a_cert_2"
+			}
+		]
+	},
+	"player.mimilleboldboy.ambient": {
+		"sounds": [
+			{"name": "koyc:player/mimilleboldboy/ambient1"}
+		]
+	},
+	"player.ecctheenderman.ambient": {
+		"sounds": [
+			{
+				"name": "koyc:player/ecctheenderman/oh"
+			}, {
+				"name": "koyc:player/ecctheenderman/oh_yeah"
+			}, {
+				"name": "koyc:player/ecctheenderman/what"
+			}, {
+				"name": "koyc:player/ecctheenderman/woah"
+			}
+		]
+	},
+	"player.mr_organic_97.ambient": {
+		"sounds": [
+			{"name": "koyc:player/mr_organic_97/ambient1"}
+		]
+	},
+	"player.iamno_one.ambient": {
+		"sounds": [
+			{"name": "koyc:player/iamno_one/ambient1"}
+		]
+	}
+}
