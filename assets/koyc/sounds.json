@@ -180,5 +180,47 @@
 		"sounds": [
 			{"name": "koyc:player/iamno_one/ambient1"}
 		]
+	},
+	"entity.cat.random": {
+		"sounds": [
+			{
+				"name": "minecraft:entity.cat.ambient",
+				"type": "event"
+			},
+			{
+				"name": "minecraft:entity.cat.purr",
+				"type": "event"
+			},
+			{
+				"name": "minecraft:entity.cat.purreow",
+				"type": "event"
+			}
+		]
+	},
+	"ambient.underwater.splash": {
+		"sounds": [
+			{
+				"name": "minecraft:ambient.underwater.enter",
+				"type": "event"
+			},
+			{
+				"name": "minecraft:ambient.underwater.exit",
+				"type": "event"
+			}
+		]
+	},
+	"entity.creeper.random": {
+		"sounds": [
+			{
+				"weight": 4,
+				"name": "minecraft:entity.creeper.primed",
+				"type": "event"
+			},
+			{
+				"weight": 1,
+				"name": "minecraft:entity.generic.explode",
+				"type": "event"
+			}
+		]
 	}
 }
